@@ -8,8 +8,7 @@ O desafio consistia em reproduzir uma landing page com base em um layout do Figm
 [https://matheus97px.github.io/landing-page-dio-/](https://matheus97px.github.io/landing-page-dio-/)
 
 ## 📸 Screenshot
-
-![screenshot do projeto](https://imgur.com/ZghOEtG)
+![screenshot do projeto](https://github.com/Matheus97px/landing-page-dio-/blob/cd30e5b8e65cbac3a703cc4a087a8ae922bf6f09/Trilha%20de%20CSS%20-%20DIO.png) 
 
 ## 🚀 Tecnologias utilizadas
 - HTML5
